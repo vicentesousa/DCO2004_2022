@@ -3,8 +3,8 @@
 # UNIDADE I
 
 ## Hands-on 00: Preparação do ambiente de prática e desenvolvimento
-### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooksh00_VM.ipynb)
-### [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooksh00_VM_18.04.ipynb)
+### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM.ipynb)
+### [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM_18.04.ipynb)
 **Objetivos:**
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 14.04 ou o Ubuntu 18.04 no Windows
