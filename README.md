@@ -12,12 +12,14 @@
 
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_BJ.ipynb)
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_BJ_18.04.ipynb)
+### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 20.04) - Python 3.8.5](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_BJ_20.04.ipynb)
 **Objetivos**
 - Instalar pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
 ### [Github: criação de seu próprio repositório](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_GIT_18.04.ipynb)
+### [Github: criação de seu próprio repositório - UBUNTU 20.04](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_GIT_20.04.ipynb)
 **Objetivos**
 - Cadastramento no GitHub
 - Criar repositorios no GitHub
@@ -34,10 +36,13 @@
 - Apresentar vantagens de usar o Python3
 - Apresentar onde encontrar informações sobre o Python 3
 - Apresentar operações básicas com o Python 3
-- Apresentar o Spyder como interface de desenvolvimento para Pyhton 3
-- Apresentar o processo de Debug (depuração) no Python 3
 
-### [Um breve curso de Python 3](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_python_course.ipynb)
+### VS Code para Python 3.8.5 [Windows](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_vscode_Windows.ipynb) [Linux](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_vscode_Linux.ipynb)
+**Objetivos**
+- Apresentar o VS code como interface de desenvolvimento para Pyhton 3
+- Apresentar o processo de Debug (depuração) no Python 3 com o VS code
+
+### [Um breve curso de Python 3.8.5](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_python_course.ipynb)
 **Objetivos**
 - TODO
 - TODO
@@ -47,7 +52,7 @@
 
 ## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal) 
 
-### [Hands-on](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks//h02_python.ipynb)
+### [Hands-on](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h02_python.ipynb)
 ### Objetivos
 - Praticar geração e plotagem de sinais de áudio no Python;
 - Praticar abertura e plotagem de arquivos de áudio no Python.
