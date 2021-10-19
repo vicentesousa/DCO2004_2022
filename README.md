@@ -36,7 +36,13 @@
 - Apresentar operações básicas com o Python 3
 - Apresentar o Spyder como interface de desenvolvimento para Pyhton 3
 - Apresentar o processo de Debug (depuração) no Python 3
-   
+
+### [Um breve curso de Python 3](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_python_course.ipynb)
+**Objetivos**
+- TODO
+- TODO
+- TODO 
+
 ### [Entregáveis do Hands-on 01](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_relatorio.ipynb)
 
 ## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal) 
