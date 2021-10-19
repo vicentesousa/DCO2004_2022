@@ -26,21 +26,9 @@
 ### [Entregáveis do Hands-on 00](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_relatorio.ipynb)
 
 
-# Ainda não liberado!!!
-
-
-
-## Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics) (07/08/2019 e 14/08/2019)
-
-### [O que devemos saber para começar a programar com Matlab](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h01_matlab.ipynb)
-**Objetivos**
-- Apresentar vantagens de usar o Matlab 
-- Apresentar onde encontrar informações sobre o Matlab
-- Apresentar operações básicas com o Matlab
-- Apresentar o processo de Debug (depuração) no Matlab e no Python 3
-- Entender como é vantajoso a programação matricial com Matlab
-   
-### [O que devemos saber para começar a programar com Python 3](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h01_python.ipynb)
+## Hands-on 01: Ferramentas de prototipagem (Python Basics) 
+  
+### [O que devemos saber para começar a programar com Python 3](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_python.ipynb)
 **Objetivos**
 - Apresentar vantagens de usar o Python3
 - Apresentar onde encontrar informações sobre o Python 3
@@ -48,41 +36,28 @@
 - Apresentar o Spyder como interface de desenvolvimento para Pyhton 3
 - Apresentar o processo de Debug (depuração) no Python 3
    
-### [Entregáveis do Hands-on 01 (21/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h01_relatorio.ipynb)
+### [Entregáveis do Hands-on 01 (21/08/2019)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_relatorio.ipynb)
 
-## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal) (21/08/2019)
+## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal) 
 
-### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h02_matlab.ipynb) 
-
-### Objetivos
-- Fazer uma breve revisão de sinais e ondas;
-- Fazer uma breve revisão de sinais de áudio;
-- Praticar geração e plotagem de sinais de áudio;
-- Praticar abertura e plotagem de arquivos de áudio.
-  
-### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h02_python.ipynb)
+### [Hands-on](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks//h02_python.ipynb)
 ### Objetivos
 - Praticar geração e plotagem de sinais de áudio no Python;
 - Praticar abertura e plotagem de arquivos de áudio no Python.
    
-### [Entregáveis do Hands-on 02 (04/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h02_relatorio.ipynb)
+### [Entregáveis do Hands-on 02](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h02_relatorio.ipynb)
 
-## Hands-on 03: Visualização de sinais na frequência (gerando e vendo o espectro de um sinal) (28/08/2019)
+## Hands-on 03: Visualização de sinais na frequência (gerando e vendo o espectro de um sinal)
 
-### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h03_matlab.ipynb) 
-### Objetivos
-- Fazer uma breve revisão sobre amostragem e a consequência de seu valor na reconstrução de um sinal amostrado;
-- Visualização do conteúdo em frequência (single e double sided) de um sinal;
-- Praticar aspectos de análise espectral (janelamento).
-
-### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h03_python.ipynb) 
+### [Hands-on](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h03_python.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre amostragem e a consequência de seu valor na resconstrução de um sinal amostrado com Python;
 - Visualização do conteúdo em frequência (single e double sided) de um sinal com Python;
 - Praticar aspectos de análise espectral (janelamento) com Python.
   
-### [Entregáveis do Hands-on 03 (04/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h03_relatorio.ipynb)
+### [Entregáveis do Hands-on 03 (04/09/2019)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h03_relatorio.ipynb)
 
+# Ainda não liberado!!!
 
 ## Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação) (04/09/2019)
 
