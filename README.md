@@ -5,6 +5,7 @@
 ## Hands-on 00: Preparação do ambiente de prática e desenvolvimento
 ### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM.ipynb)
 ### [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM_18.04.ipynb)
+### [Criação de máquina virtual Ubuntu (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM_20.04.ipynb)
 **Objetivos:**
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 14.04 ou o Ubuntu 18.04 no Windows
@@ -35,7 +36,13 @@
 - Apresentar operações básicas com o Python 3
 - Apresentar o Spyder como interface de desenvolvimento para Pyhton 3
 - Apresentar o processo de Debug (depuração) no Python 3
-   
+
+### [Um breve curso de Python 3](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_python_course.ipynb)
+**Objetivos**
+- TODO
+- TODO
+- TODO 
+
 ### [Entregáveis do Hands-on 01](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_relatorio.ipynb)
 
 ## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal) 
