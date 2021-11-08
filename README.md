@@ -9,8 +9,10 @@
 - Baixar e criar máquina virtual Ubuntu 14.04 ou o Ubuntu 18.04 no Windows
 
 **Versões antigas:**
-### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM.ipynb)
-### [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM_18.04.ipynb)
+#### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM.ipynb)
+#### [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM_18.04.ipynb)
+
+---
 
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 20.04) - Python 3.8.5](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_BJ_20.04.ipynb)
 **Objetivos**
@@ -19,9 +21,10 @@
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
 **Versões antigas:**
-### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_BJ.ipynb)
-### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_BJ_18.04.ipynb)
+#### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_BJ.ipynb)
+#### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_BJ_18.04.ipynb)
 
+---
 
 ### [Github: criação de seu próprio repositório - UBUNTU 20.04](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_GIT_20_04.ipynb)
 
@@ -32,7 +35,7 @@
 - Editar o README.md
 
 **Versões antigas:**
-### [Github: criação de seu próprio repositório](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_GIT_18.04.ipynb)
+#### [Github: criação de seu próprio repositório](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_GIT_18.04.ipynb)
 
 ### [Entregáveis do Hands-on 00](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_relatorio.ipynb)
 
