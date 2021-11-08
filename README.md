@@ -7,6 +7,7 @@
 **Objetivos:**
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 14.04 ou o Ubuntu 18.04 no Windows
+
 **Versões antigas:**
 ### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM.ipynb)
 ### [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM_18.04.ipynb)
@@ -16,6 +17,7 @@
 - Instalar pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
+
 **Versões antigas:**
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_BJ.ipynb)
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_BJ_18.04.ipynb)
@@ -28,6 +30,7 @@
 - Criar repositorios no GitHub
 - Submeter arquivos para repositórios do GitHub
 - Editar o README.md
+
 **Versões antigas:**
 ### [Github: criação de seu próprio repositório](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_GIT_18.04.ipynb)
 
