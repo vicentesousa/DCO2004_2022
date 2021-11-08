@@ -53,7 +53,7 @@
 - Apresentar o VS code como interface de desenvolvimento para Pyhton 3
 - Apresentar o processo de Debug (depuração) no Python 3 com o VS code
 
-### [Um breve curso de Python 3.8.5](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_python_course.ipynb)
+### Um breve curso de Python
 **Objetivos**
 - [Treinamento do básico em Python - comentários, entrada e saída de dados & variáveis](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_aprendendo_python_1.ipynb)
 - [Treinamento do básico em Python - laços for e while, desenvolvimento de arrays & introdução de funções](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_aprendendo_python_2.ipynb)
