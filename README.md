@@ -81,24 +81,15 @@
   
 ### [Entregáveis do Hands-on 03](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h03_relatorio.ipynb)
 
-# Ainda não liberado!!!
-
 ## Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação) (04/09/2019)
 
-### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_matlab.ipynb) 
-### Objetivos
-- Fazer uma breve revisão sobre processos estocásticos e medidas relacionadas;
-- Fazer uma breve revisão sobre cálculo de potência e energia de um sinal (seu significado e seu cálculo);
-- Fazer uma aplicação prática com a autocorrelção (remoção de eco com a autocorrelação).
-
-### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_python.ipynb)
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_python.ipynb)
 ### Objetivos
 - Fazer uma breve revisão sobre processos estocásticos e medidas relacionadas usando Python;
 - Fazer uma breve revisão sobre cálculo de potência e energia de um sinal (seu significado e seu cálculo) usando Python;
 - Fazer uma aplicação prática com a autocorrelção (remoção de eco) usando Python.
    
-### [Entregáveis do Hands-on 04 (18/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_relatorio.ipynb)
-
+### [Entregáveis do Hands-on 04](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_relatorio.ipynb)
 
 # UNIDADE II
 
@@ -108,10 +99,11 @@
 - Fazer uma breve revisão sobre modulação de onda contínua AM e FM (banda-passante);
 - Fazer uma breve revisão sobre demodulação de onda contínua AM e FM (banda-passante);
 - Fazer uma breve revisão sobre modulação em quadratura;
-    - Praticar com protótipos em Matlab e Python de moduladores AM-DSB, AM-DSB-SC, AM-SSB, QAM e FM.
+- Praticar com protótipos em Python de moduladores AM-DSB, AM-DSB-SC, AM-SSB, QAM e FM.
 
-### [Entregáveis do Hands-on 05 (18/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h05_relatorio.ipynb)
+### [Entregáveis do Hands-on 05](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h05_relatorio.ipynb)
 
+# Ainda não liberado!!!
 
 ## Hands-on 06: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) (18/09/2019 e 25/09/2019)
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h06.ipynb) 
