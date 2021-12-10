@@ -83,13 +83,13 @@
 
 ## Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação) (04/09/2019)
 
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_python.ipynb)
+### [Hands-on](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h04_python.ipynb)
 ### Objetivos
 - Fazer uma breve revisão sobre processos estocásticos e medidas relacionadas usando Python;
 - Fazer uma breve revisão sobre cálculo de potência e energia de um sinal (seu significado e seu cálculo) usando Python;
 - Fazer uma aplicação prática com a autocorrelção (remoção de eco) usando Python.
    
-### [Entregáveis do Hands-on 04](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_relatorio.ipynb)
+### [Entregáveis do Hands-on 04](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h04_relatorio.ipynb)
 
 # UNIDADE II
 
@@ -101,7 +101,7 @@
 - Fazer uma breve revisão sobre modulação em quadratura;
 - Praticar com protótipos em Python de moduladores AM-DSB, AM-DSB-SC, AM-SSB, QAM e FM.
 
-### [Entregáveis do Hands-on 05](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h05_relatorio.ipynb)
+### [Entregáveis do Hands-on 05](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h05_relatorio.ipynb)
 
 # Ainda não liberado!!!
 
