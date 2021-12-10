@@ -103,17 +103,16 @@
 
 ### [Entregáveis do Hands-on 05](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h05_relatorio.ipynb)
 
-# Ainda não liberado!!!
-
 ## Hands-on 06: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) (18/09/2019 e 25/09/2019)
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h06.ipynb) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h06.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre o processo de digitalização de um sinal contínuo (amostragem, quantização, codificação, reconstrução);
 - Fazer uma breve revisão sobre o processo de no tempo;
 - Praticar os conceitos com protótipos em Matlab e Python.
    
-### [Entregáveis do Hands-on 06 (02/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h06_relatorio.ipynb)
+### [Entregáveis do Hands-on 06 (02/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h06_relatorio.ipynb)
 
+# Ainda não liberado!!!
 
 ## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite (09/10/2019)
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h07.ipynb) 
