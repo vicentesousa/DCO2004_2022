@@ -94,7 +94,7 @@
 # UNIDADE II
 
 ## Hands-on 05: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM, FM) (11/09/2019)
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h05_python.ipynb) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h05_python.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre modulação de onda contínua AM e FM (banda-passante);
 - Fazer uma breve revisão sobre demodulação de onda contínua AM e FM (banda-passante);
@@ -115,7 +115,7 @@
 # Ainda não liberado!!!
 
 ## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite (09/10/2019)
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h07.ipynb) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h07.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre parte da taxonomia associada a modelagem de fenômenos aleatórios;
 - Fazer uma breve revisão e praticar a geração de variáveis aleatórias;
@@ -123,52 +123,52 @@
 - Entender características essenciais do Teorema do Limite Central (ou Teorema Central do Limite);
 - Praticar os conceitos com protótipos em Matlab e Python.
 
-### [Entregáveis do Hands-on 07 (16/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h07_relatorio.ipynb)
+### [Entregáveis do Hands-on 07 (16/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h07_relatorio.ipynb)
 
 ## Hands-on 08: Ruído AWGN (caracterização e geração de amostras) (16/10/2019)
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h08.ipynb) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h08.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre ruído em comunicações analógicas e digitais (e métricas associadas);
 - Entender o processe de geração de amostras de ruído branco (real e complexo);
 - Praticar os conceitos com protótipos em Matlab e Python.
 
-### [Entregáveis do Hands-on 08 (23/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h08_relatorio.ipynb)
+### [Entregáveis do Hands-on 08 (23/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h08_relatorio.ipynb)
 
 
 # UNIDADE III
 
 ## Hands-on 09: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) (23/10/2019)
 
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h09.ipynb) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h09.ipynb) 
 ### Objetivos
 - Entender os processos de transmissão e recepção digital em banda-base (sinais ortogonais e antipodais);
 - Entender recepção ótima em canais AWGN;
 - Entender como fazer análise de desempenho de um enlace de comunicação digital sujeito a canal AWGN (traçar e analisar curva BER vs $E_B/N_0$ via simulação de Monte Carlo).
 
-### [Entregáveis do Hands-on 09 (06/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h09_relatorio.ipynb)
+### [Entregáveis do Hands-on 09 (06/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h09_relatorio.ipynb)
 
 ## Hands-on 10: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN) (06/11/2019)
 
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h10.ipynb) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h10.ipynb) 
 ### Objetivos
 - Entender os processos de transmissão e recepção de um sinal digital em canais AWGN limitado em banda (caracterização da ISI);
 - Entender a traçar e analisar um diagrama de olho (visualização dos efeitos da ISI);
 - Entender os processos de transmissão e recepção de um sinal digital em banda-passante.
 - Aprender a estimar a PSD de sinais digitais.
 
-### [Entregáveis do Hands-on 10 (13/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h10_relatorio.ipynb)
+### [Entregáveis do Hands-on 10 (13/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h10_relatorio.ipynb)
 
 ## Prova escrita da disciplina (13/11/2019)
 
 ## Hands-on 11: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho) (20/11/2019)
 
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11.ipynb)
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h11.ipynb)
 ### Objetivos
 - Entender a caracterização e modelagem de canais com desvanecimento plano;
 - Entender como gerar um canal com desvanecimento plano;
 - Entender como fazer análise de desempenh
 
-### [Entregáveis do Hands-on 11 (27/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11_relatorio.ipynb).
+### [Entregáveis do Hands-on 11 (27/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h11_relatorio.ipynb).
 
 ## Divulgação de notas da disciplina 
 
