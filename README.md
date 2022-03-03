@@ -6,7 +6,7 @@
 ### [Criação de máquina virtual Ubuntu (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2004_2022/blob/main//notebooks/h00_VM_20_04.ipynb)
 **Objetivos:**
 - Instalar VMWare no Windows
-- Baixar e criar máquina virtual Ubuntu 14.04 ou o Ubuntu 18.04 no Windows
+- Baixar e criar máquina virtual Ubuntu 20.04 no Windows
 
 **Versões antigas:**
 #### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_VM.ipynb)
@@ -35,7 +35,7 @@
 - Editar o README.md
 
 **Versões antigas:**
-#### [Github: criação de seu próprio repositório](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_GIT_18.04.ipynb)
+#### [Github: criação de seu próprio repositório (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_GIT_18.04.ipynb)
 
 ### [Entregáveis do Hands-on 00](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_relatorio.ipynb)
 
