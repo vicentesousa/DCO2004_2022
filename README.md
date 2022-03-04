@@ -51,10 +51,10 @@
 - Apresentar onde encontrar informações sobre o Python 3
 - Apresentar operações básicas com o Python 3
 
-### VS Code para Python 3.8.5 [Windows & Linux](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_utilizando_VisualStudio.ipynb)
+### [VS Code para Python 3.8.5 - Windows & Linux](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_utilizando_VisualStudio.ipynb)
 **Objetivos**
-- Apresentar o VS code como interface de desenvolvimento para Pyhton 3
-- Apresentar o processo de Debug (depuração) no Python 3 com o VS code
+- Apresentar o VS code como interface de desenvolvimento para Pyhton 3;
+- Apresentar o processo de Debug (depuração) no Python 3 com o VS code.
 
 ### Um breve curso de Python
 **Objetivos**
