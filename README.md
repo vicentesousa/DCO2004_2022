@@ -54,7 +54,8 @@
 ### [VS Code para Python 3.8.5 - Windows & Linux](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_utilizando_VisualStudio.ipynb)
 **Objetivos**
 - Apresentar o VS code como interface de desenvolvimento para Pyhton 3;
-- Apresentar o processo de Debug (depuração) no Python 3 com o VS code.
+- Apresentar o processo de Debug (depuração) no Python 3 com o VS code;
+- Um minicurso introdutório sobre programação com Python.
 
 ### Um breve curso de Python
 **Objetivos**
