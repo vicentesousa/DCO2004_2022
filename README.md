@@ -52,16 +52,17 @@
 - Apresentar operações básicas com o Python 3
 
 ### [VS Code para Python 3.8.5 - Windows & Linux](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_utilizando_VisualStudio.ipynb)
+### [Treinamento do básico em Python - comentários, entrada e saída de dados & variáveis](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_aprendendo_python_1.ipynb)
+### [Treinamento do básico em Python - laços for e while, desenvolvimento de arrays & introdução de funções](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_aprendendo_python_2.ipynb)
+### [Treinamento do básico em Python -  funções, construtores & bibliotecas](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_aprendendo_python_3.ipynb)
+### [Treinamento do básico em Python -  Bibliotecas: (Numpy, Matplotlib e Pandas)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_aprendendo_python_4.ipynb)
+
 **Objetivos**
 - Apresentar o VS code como interface de desenvolvimento para Pyhton 3;
-- Apresentar o processo de Debug (depuração) no Python 3 com o VS code.
+- Apresentar o processo de Debug (depuração) no Python 3 com o VS code;
+- Um minicurso introdutório sobre programação com Python.
 
-### Um breve curso de Python
-**Objetivos**
-- [Treinamento do básico em Python - comentários, entrada e saída de dados & variáveis](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_aprendendo_python_1.ipynb)
-- [Treinamento do básico em Python - laços for e while, desenvolvimento de arrays & introdução de funções](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_aprendendo_python_2.ipynb)
-- [Treinamento do básico em Python -  funções, construtores & bibliotecas](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_aprendendo_python_3.ipynb)
-- [Treinamento do básico em Python -  Bibliotecas: (Numpy, Matplotlib e Pandas)](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_aprendendo_python_4.ipynb)
+
 
 ### [Entregáveis do Hands-on 01](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_relatorio.ipynb)
 
@@ -114,8 +115,6 @@
 - Praticar os conceitos com protótipos em Matlab e Python.
    
 ### [Entregáveis do Hands-on 06 (02/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h06_relatorio.ipynb)
-
-# Ainda não liberado!!!
 
 ## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite (09/10/2019)
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h07.ipynb) 
