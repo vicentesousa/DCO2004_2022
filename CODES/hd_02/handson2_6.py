@@ -29,8 +29,9 @@ eco = np.zeros([len(vtSom),2])
 end=len(vtSom)
 eco[n:,:] = vtSom[0:end-n,:] 
 vtSomEco = np.zeros([len(eco),2])
-vtSomEco += eco
+vtSomEco = eco
 vtSomEco += vtSom
+vtSomEco = vtSomEco.astype('int16')
 
 wv.write('/home/dco2004/DCO2004_2022/MATERIAL/HD_02_PYTHON/com_eco.wav',dFa,vtSomEco.astype('int16'))
 #os.system('cvlc --play-and-exit ../MATERIAL/HD_02_PYTHON/com_eco.wav') 
@@ -55,6 +56,7 @@ plt.ylabel('Amplitude')                            # Configura eixo X do gráfic
 plt.xlabel('Tempo (s)')                            # Configura eixo Y do gráfico
 
 sd.play(vtSom-vtSomEco,dFa)                         # Reproduz apenas o eco
+sd.wait()  
 
 plt.tight_layout()
 plt.show()

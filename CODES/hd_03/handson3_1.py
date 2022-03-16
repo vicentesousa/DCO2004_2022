@@ -42,4 +42,4 @@ plt.axis([0,2*1/fm,-3,4])                          # Zoom em dois períodos da o
 plt.show()
 # A função 'whos' é responsável por mostrar todas as variáveis que foram criadas no workspace,
 # identificando suas principais caracteristicas.
-ipython #%whos
+#ipython #%whos
