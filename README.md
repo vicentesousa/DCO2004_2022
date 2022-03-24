@@ -85,7 +85,7 @@
   
 ### [Entregáveis do Hands-on 03](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h03_relatorio.ipynb)
 
-## Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação) (04/09/2019)
+## Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação)
 
 ### [Hands-on](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h04_python.ipynb)
 ### Objetivos
@@ -97,7 +97,7 @@
 
 # UNIDADE II
 
-## Hands-on 05: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM, FM) (11/09/2019)
+## Hands-on 05: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM, FM) 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h05_python.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre modulação de onda contínua AM e FM (banda-passante);
@@ -107,16 +107,16 @@
 
 ### [Entregáveis do Hands-on 05](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h05_relatorio.ipynb)
 
-## Hands-on 06: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) (18/09/2019 e 25/09/2019)
+## Hands-on 06: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h06_python.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre o processo de digitalização de um sinal contínuo (amostragem, quantização, codificação, reconstrução);
 - Fazer uma breve revisão sobre o processo de no tempo;
 - Praticar os conceitos com protótipos em Matlab e Python.
    
-### [Entregáveis do Hands-on 06 (02/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h06_relatorio.ipynb)
+### [Entregáveis do Hands-on 06](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h06_relatorio.ipynb)
 
-## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite (09/10/2019)
+## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h07.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre parte da taxonomia associada a modelagem de fenômenos aleatórios;
@@ -125,21 +125,21 @@
 - Entender características essenciais do Teorema do Limite Central (ou Teorema Central do Limite);
 - Praticar os conceitos com protótipos em Matlab e Python.
 
-### [Entregáveis do Hands-on 07 (16/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h07_relatorio.ipynb)
+### [Entregáveis do Hands-on 07](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h07_relatorio.ipynb)
 
-## Hands-on 08: Ruído AWGN (caracterização e geração de amostras) (16/10/2019)
+## Hands-on 08: Ruído AWGN (caracterização e geração de amostras)
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h08.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre ruído em comunicações analógicas e digitais (e métricas associadas);
 - Entender o processe de geração de amostras de ruído branco (real e complexo);
 - Praticar os conceitos com protótipos em Matlab e Python.
 
-### [Entregáveis do Hands-on 08 (23/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h08_relatorio.ipynb)
+### [Entregáveis do Hands-on 08](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h08_relatorio.ipynb)
 
 
 # UNIDADE III
 
-## Hands-on 09: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) (23/10/2019)
+## Hands-on 09: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN)
 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h09.ipynb) 
 ### Objetivos
@@ -147,9 +147,9 @@
 - Entender recepção ótima em canais AWGN;
 - Entender como fazer análise de desempenho de um enlace de comunicação digital sujeito a canal AWGN (traçar e analisar curva BER vs $E_B/N_0$ via simulação de Monte Carlo).
 
-### [Entregáveis do Hands-on 09 (06/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h09_relatorio.ipynb)
+### [Entregáveis do Hands-on 09](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h09_relatorio.ipynb)
 
-## Hands-on 10: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN) (06/11/2019)
+## Hands-on 10: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN)
 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h10.ipynb) 
 ### Objetivos
@@ -158,11 +158,11 @@
 - Entender os processos de transmissão e recepção de um sinal digital em banda-passante.
 - Aprender a estimar a PSD de sinais digitais.
 
-### [Entregáveis do Hands-on 10 (13/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h10_relatorio.ipynb)
+### [Entregáveis do Hands-on 10](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h10_relatorio.ipynb)
 
-## Prova escrita da disciplina (13/11/2019)
+## Prova escrita da disciplina 
 
-## Hands-on 11: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho) (20/11/2019)
+## Hands-on 11: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho)
 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h11.ipynb)
 ### Objetivos
@@ -170,7 +170,7 @@
 - Entender como gerar um canal com desvanecimento plano;
 - Entender como fazer análise de desempenh
 
-### [Entregáveis do Hands-on 11 (27/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h11_relatorio.ipynb).
+### [Entregáveis do Hands-on 11](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h11_relatorio.ipynb).
 
 ## Divulgação de notas da disciplina 
 
