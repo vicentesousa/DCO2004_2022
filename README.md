@@ -85,6 +85,8 @@
   
 ### [Entregáveis do Hands-on 03](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h03_relatorio.ipynb)
 
+# UNIDADE II
+
 ## Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação)
 
 ### [Hands-on](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h04_python.ipynb)
@@ -94,8 +96,6 @@
 - Fazer uma aplicação prática com a autocorrelção (remoção de eco) usando Python.
    
 ### [Entregáveis do Hands-on 04](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h04_relatorio.ipynb)
-
-# UNIDADE II
 
 ## Hands-on 05: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM, FM) 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h05_python.ipynb) 
@@ -136,7 +136,6 @@
 
 ### [Entregáveis do Hands-on 08](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h08_relatorio.ipynb)
 
-
 # UNIDADE III
 
 ## Hands-on 09: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN)
@@ -160,6 +159,8 @@
 
 ### [Entregáveis do Hands-on 10](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h10_relatorio.ipynb)
 
+<!--
+
 ## Prova escrita da disciplina 
 
 ## Hands-on 11: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho)
@@ -175,3 +176,5 @@
 ## Divulgação de notas da disciplina 
 
 ## Quarta Prova da disciplina 
+
+-->
