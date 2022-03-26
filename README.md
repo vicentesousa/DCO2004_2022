@@ -140,7 +140,7 @@
 
 ## Hands-on 09: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN)
 
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h09.ipynb) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h09_python.ipynb) 
 ### Objetivos
 - Entender os processos de transmissão e recepção digital em banda-base (sinais ortogonais e antipodais);
 - Entender recepção ótima em canais AWGN;
