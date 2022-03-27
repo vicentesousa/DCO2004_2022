@@ -148,6 +148,21 @@
 
 ### [Entregáveis do Hands-on 09](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h09_relatorio.ipynb)
 
+
+## Hands-on 10: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho)
+
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h10.ipynb)
+### Objetivos
+- Entender a caracterização e modelagem de canais com desvanecimento plano;
+- Entender como gerar um canal com desvanecimento plano;
+- Entender como fazer análise de desempenho de um enlace de comunicação digital sujeito a canal AWGN (traçar e analisar curva BER vs $E_B/N_0$ via simulação de Monte Carlo).
+
+### [Entregáveis do Hands-on 11](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h10_relatorio.ipynb).
+
+
+<!--
+
+## Prova escrita da disciplina 
 ## Hands-on 10: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN)
 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h10.ipynb) 
@@ -159,19 +174,7 @@
 
 ### [Entregáveis do Hands-on 10](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h10_relatorio.ipynb)
 
-<!--
 
-## Prova escrita da disciplina 
-
-## Hands-on 11: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho)
-
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h11.ipynb)
-### Objetivos
-- Entender a caracterização e modelagem de canais com desvanecimento plano;
-- Entender como gerar um canal com desvanecimento plano;
-- Entender como fazer análise de desempenh
-
-### [Entregáveis do Hands-on 11](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h11_relatorio.ipynb).
 
 ## Divulgação de notas da disciplina 
 
