@@ -1,7 +1,7 @@
 # Material didático para o DCO2004: Laboratório de Prototipagem de Sistemas de Comunicações (2022.1)
 ## Monitores/desenvolvedores em 2022:
--  Leonardo Saads Pinto
--  Enzo Raykar da Silva
+-  Leonardo Saads Pinto    contato: (84)99818-3111 / Email: leonardospinto@hotmail.com
+-  Enzo Raykar da Silva    contato: (84)98624-5059 / Email: 
 
 # UNIDADE I
 
