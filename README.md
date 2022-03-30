@@ -1,7 +1,7 @@
 # Material didático para o DCO2004: Laboratório de Prototipagem de Sistemas de Comunicações (2022.1)
 ## Monitores/desenvolvedores em 2022:
--  Leonardo Saads Pinto
--  Enzo Raykar da Silva
+-  Leonardo Saads Pinto    contato: (84)99818-3111 / Email: leonardospinto@hotmail.com
+-  Enzo Raykar da Silva    contato: (84)98624-5059 / Email: enzo.morais.018@ufrn.edu.br 
 
 # UNIDADE I
 
@@ -48,7 +48,7 @@
 
 ### [Entregáveis do Hands-on 00](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_relatorio.ipynb)
 
-
+<!--
 ## Hands-on 01: Ferramentas de prototipagem (Python Basics) 
   
 ### [O que devemos saber para começar a programar com Python 3](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_python.ipynb)
@@ -165,6 +165,7 @@
 
 ### [Entregáveis do Hands-on 10](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h10_relatorio.ipynb).
 
+-->
 
 <!--
 
