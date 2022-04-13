@@ -48,7 +48,7 @@
 
 ### [Entregáveis do Hands-on 00](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h00_relatorio.ipynb)
 
-<!--
+
 ## Hands-on 01: Ferramentas de prototipagem (Python Basics) 
   
 ### [O que devemos saber para começar a programar com Python 3](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_python.ipynb)
@@ -71,6 +71,8 @@
 
 
 ### [Entregáveis do Hands-on 01](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_relatorio.ipynb)
+
+<!--
 
 ## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal) 
 
