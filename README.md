@@ -83,7 +83,7 @@
    
 ### [Entregáveis do Hands-on 02](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h02_relatorio.ipynb)
 
-<!--
+
 
 ## Hands-on 03: Visualização de sinais na frequência (gerando e vendo o espectro de um sinal)
 
@@ -94,6 +94,8 @@
 - Praticar aspectos de análise espectral (janelamento) com Python.
   
 ### [Entregáveis do Hands-on 03](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h03_relatorio.ipynb)
+
+<!--
 
 # UNIDADE II
 
