@@ -95,8 +95,6 @@
   
 ### [Entregáveis do Hands-on 03](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h03_relatorio.ipynb)
 
-<!--
-
 # UNIDADE II
 
 ## Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação)
@@ -109,6 +107,7 @@
    
 ### [Entregáveis do Hands-on 04](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h04_relatorio.ipynb)
 
+<!--
 ## Hands-on 05: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM, FM) 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h05_python.ipynb) 
 ### Objetivos
