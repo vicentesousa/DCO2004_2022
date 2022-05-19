@@ -107,7 +107,6 @@
    
 ### [Entregáveis do Hands-on 04](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h04_relatorio.ipynb)
 
-<!--
 ## Hands-on 05: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM, FM) 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h05_python.ipynb) 
 ### Objetivos
@@ -117,6 +116,8 @@
 - Praticar com protótipos em Python de moduladores AM-DSB, AM-DSB-SC, AM-SSB, QAM e FM.
 
 ### [Entregáveis do Hands-on 05](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h05_relatorio.ipynb)
+
+<!--
 
 ## Hands-on 06: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h06_python.ipynb) 
