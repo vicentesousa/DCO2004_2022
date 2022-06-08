@@ -117,7 +117,6 @@
 
 ### [Entregáveis do Hands-on 05](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h05_relatorio.ipynb)
 
-<!--
 
 ## Hands-on 06: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h06_python.ipynb) 
@@ -127,6 +126,8 @@
 - Praticar os conceitos com protótipos em Matlab e Python.
    
 ### [Entregáveis do Hands-on 06](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h06_relatorio.ipynb)
+
+<!--
 
 ## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h07.ipynb) 
