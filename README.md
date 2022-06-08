@@ -127,8 +127,6 @@
    
 ### [Entregáveis do Hands-on 06](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h06_relatorio.ipynb)
 
-<!--
-
 ## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h07.ipynb) 
 ### Objetivos
@@ -139,6 +137,8 @@
 - Praticar os conceitos com protótipos em Matlab e Python.
 
 ### [Entregáveis do Hands-on 07](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h07_relatorio.ipynb)
+
+<!--
 
 ## Hands-on 08: Ruído AWGN (caracterização e geração de amostras)
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h08_python.ipynb) 
