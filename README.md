@@ -147,8 +147,6 @@
 
 ### [Entregáveis do Hands-on 08](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h08_relatorio.ipynb)
 
-<!--
-
 # UNIDADE III
 
 ## Hands-on 09: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN)
@@ -161,6 +159,7 @@
 
 ### [Entregáveis do Hands-on 09](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h09_relatorio.ipynb)
 
+<!--
 
 ## Hands-on 10: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho)
 
