@@ -123,7 +123,7 @@
 ### Objetivos
 - Fazer uma breve revisão sobre o processo de digitalização de um sinal contínuo (amostragem, quantização, codificação, reconstrução);
 - Fazer uma breve revisão sobre o processo de no tempo;
-- Praticar os conceitos com protótipos em Matlab e Python.
+- Praticar os conceitos com protótipos em Python.
    
 ### [Entregáveis do Hands-on 06](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h06_relatorio.ipynb)
 
@@ -134,7 +134,7 @@
 - Fazer uma breve revisão e praticar a geração de variáveis aleatórias;
 - Entender características essenciais relacionadas a técnica de Monte Carlo;
 - Entender características essenciais do Teorema do Limite Central (ou Teorema Central do Limite);
-- Praticar os conceitos com protótipos em Matlab e Python.
+- Praticar os conceitos com protótipos em Python.
 
 ### [Entregáveis do Hands-on 07](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h07_relatorio.ipynb)
 
@@ -143,7 +143,7 @@
 ### Objetivos
 - Fazer uma breve revisão sobre ruído em comunicações analógicas e digitais (e métricas associadas);
 - Entender o processe de geração de amostras de ruído branco (real e complexo);
-- Praticar os conceitos com protótipos em Matlab e Python.
+- Praticar os conceitos com protótipos em Python.
 
 ### [Entregáveis do Hands-on 08](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2022/blob/main/notebooks/h08_relatorio.ipynb)
 
